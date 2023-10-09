@@ -1,7 +1,7 @@
 {
   "name": "reactcarousel2",
   "version": "0.1.0",
-  "homepage": "https://{username}.github.io",
+  "homepage": "https://ECMiraldo.github.io",
   "private": true,
   "dependencies": {
     "@react-spring/web": "^9.7.3",
